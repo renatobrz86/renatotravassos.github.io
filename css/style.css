@@ -30,7 +30,7 @@
     min-height: 100vh;
     background-color: var(--bio-bg-color);
     text-align: center;
-    padding: 30 px 12px;
+    padding: 30px 12px;
     border-right: 5px solid var(--bio-border-color);
 }
 
@@ -155,7 +155,7 @@
     font-size: 32px;
 }
 
-#skill-container {
+#skills-container {
     display: flex;
     flex-wrap: wrap;
     margin-top: 25px;
